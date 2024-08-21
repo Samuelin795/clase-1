@@ -1,4 +1,4 @@
 a = 5
 b = 8
 c = a * b
-print ("Hola ", c)
+print ("los mejores ","10-10", c)
